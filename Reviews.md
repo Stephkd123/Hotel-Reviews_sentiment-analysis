@@ -8,11 +8,11 @@ Exploring the dataset in detail and then use NLP techniques to gain new insights
 
 ## Project Structure
 ```
-FIFA Player Statistics Analysis/
-├── hotel_revs_analysis.ipynb        # Overview: structure, missing, age/overall/value distributions
-├── sentiment_analysis.ipynb   # Best players, age & rating dists, nationalities, value drivers
-├── sent_model.ipynb   # Best players, age & rating dists, nationalities, value drivers
-├── requirements.txt · README.md
+Hotel_Reviews/
+├── hotel_revs_analysis.ipynb        # Overview: Exploring Hotel names, locations and address
+├── sentiment_analysis.ipynb   # Location feature engineering, tags filtering for quuality hotel tags
+├── sent_model.ipynb   # Initilizing NLTK model to run sentiment analysis on prepared dataset
+├── requirements.txt · Reviews.md   #list of libraries used on project and file with typical read me information on project
 └── (Data) Hotel_Reviews.csv . Hotel_Summary.csv 
 ```
 ## Key Findings:
