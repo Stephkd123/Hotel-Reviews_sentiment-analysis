@@ -3,7 +3,7 @@ Data was scrapped from Booking.com, a public source and CC0 licenses included.
 Exploring the dataset in detail and then use NLP techniques to gain new insights about hotels. 
 
 ## Dataset
-- **Source**: [FIFA players dataset](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe?resource=download) (`Hotel_Review.csv`)
+- **Source**: [Hotels dataset via kaggle](https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe?resource=download) (`Hotel_Review.csv`)
 - **515,738 Hotel_Reviews × 17 columns**: Hotel_Address, Additional_Number_of_Scoring, Review_Date, Average_Score, Hotel_Name, Reviewer_Nationality, Negative_Review,Review_Total_Negative_Word_Counts, Total_Number_of_Reviews, Positive_Review, Review_Total_Positive_Word_Counts, Total_Number_of_Reviews_Reviewer_Has_Given, Reviewer_Score, Tags, days_since_review, lat and lng. 
 
 ## Project Structure
